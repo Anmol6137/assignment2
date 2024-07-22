@@ -1,0 +1,28 @@
+.early-life{
+background-color: rgb(114, 149, 124);
+font-size: 15px;
+text-align: center;
+}
+
+iframe,.img1{
+    width: 30vw;
+    height: 40vh;
+}
+.resources{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    height: 100px;
+    width: 100vw;
+    background-color: lightpink;
+
+}
+.form{
+    display: flex;
+    width: 100vw;
+    height: 100px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: lightgray;
+}
